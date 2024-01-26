@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Amalagu
-- 👀 I’m interested in Backend development  with python 
-- 🌱 I’m currently learning Python,  SQL and Linux 
+- 👋 Hi, I’m @Amalagu Chike
+- 👀 Senior Django Dev (in view)
+- 🌱 I’m a fullstack web developer with special skills in Python, Flutter, SQL and Linux 
 - 💞️ I’m looking to collaborate on Backend projects 
 - 📫 How to reach me simonamalagu4@gmail.com 
 
